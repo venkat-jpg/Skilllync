@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
-    <img width=200px height=200px src="large.jpg" alt="Project logo">
+    <img width=200px height=200px src="https://images.creativemarket.com/0.1.0/ps/2414443/1160/772/m1/fpnw/wm0/screen-1-.jpg?1489619691&s=323da801d22b9c14f16b7c1482485809" alt="Project logo">
   </a>
 </p>
 <h3 align="center">Portfolio</h3>
