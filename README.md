@@ -1,9 +1,9 @@
 <p align="center">
   <a href="" rel="noopener">
-    <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo">
+    <img width=200px height=200px src="https://www.calameo.com/read/006575766bc9d83e07236" alt="Project logo">
   </a>
 </p>
-<h3 align="center">Project Title</h3>
+<h3 align="center">Portfolio</h3>
 <div align="center">
  
 </div>
@@ -26,4 +26,3 @@ Project Title is a [brief description of your project]. It aims to [describe the
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 ### Prerequisites
 What things you need to install the software and how to install them.
-
