@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
-    <img width=200px height=200px src="https://www.calameo.com/read/006575766bc9d83e07236" alt="Project logo">
+    <img width=200px height=200px src="large.jpg" alt="Project logo">
   </a>
 </p>
 <h3 align="center">Portfolio</h3>
