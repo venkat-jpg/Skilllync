@@ -1,24 +1,29 @@
-# Portfolio
-
-
-My name is S.Venkata Rama Raju and my portfolio is a representation of all that l've learned and accomplished as a full stack web developer.
-## Table of Contents
- -About 
-
- -Getting Started
-
- -Deployment
-
- -Usage
-
- -Built Using
+<p align="center">
+  <a href="" rel="noopener">
+    <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo">
+  </a>
+</p>
+<h3 align="center">Project Title</h3>
+<div align="center">
  
- -TODO
+</div>
 
- -Contributing
 
- -Authors
+## 📝 Table of Contents
+- [About](#about)
+- [Getting Started](#getting_started)
+- [Deployment](#deployment)
+- [Usage](#usage)
+- [Built Using](#built_using)
+- [TODO](../TODO.md)
+- [Contributing](../CONTRIBUTING.md)
+- [Authors](#authors)
+- [Acknowledgments](#acknowledgement)
+## 🧐 About <a name = "about"></a>
+Project Title is a [brief description of your project]. It aims to [describe the purpose or goal of your project]. This project [provide additional details about what your project does or offers].
 
- -Acknowledgments
-## About
+## 🏁 Getting Started <a name = "getting_started"></a>
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+### Prerequisites
+What things you need to install the software and how to install them.
 
