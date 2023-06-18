@@ -24,5 +24,48 @@ Project Title is a [brief description of your project]. It aims to [describe the
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+
+Start
+├── Home Page
+│   ├── About Me
+│   ├── Skills
+│   ├── Projects
+│   ├── Experience
+│   ├── Education
+│   ├── Contact
+│   └── Testimonials
+├── Projects Page
+│   ├── Project 1
+│   ├── Project 2
+│   ├── Project 3
+│   └── Back to Home
+├── Experience Page
+│   ├── Job 1
+│   ├── Job 2
+│   ├── Job 3
+│   └── Back to Home
+├── Education Page
+│   ├── Degree 1
+│   ├── Degree 2
+│   ├── Degree 3
+│   └── Back to Home
+└── Contact Page
+    └── Contact Form
+        ├── Name
+        ├── Email
+        ├── Message
+        └── Submit
+
+
+
+
+
+
+
+
+
+
+
+
 ### Prerequisites
 What things you need to install the software and how to install them.
