@@ -29,45 +29,6 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them.
 
 
-Start
-├── Home Page
-│   ├── About Me
-│   ├── Skills
-│   ├── Projects
-│   ├── Experience
-│   ├── Education
-│   ├── Contact
-│   └── Testimonials
-
-
-          
-├── Projects Page
-│   ├── Project 1
-│   ├── Project 2
-│   ├── Project 3
-│   └── Back to Home
-
-
-├── Experience Page
-│   ├── Job 1
-│   ├── Job 2
-│   ├── Job 3
-│   └── Back to Home
-
-
-├── Education Page
-│   ├── Degree 1
-│   ├── Degree 2
-│   ├── Degree 3
-│   └── Back to Home
-
-
-└── Contact Page
-    └── Contact Form
-        ├── Name
-        ├── Email
-        ├── Message
-        └── Submit
 
 
 
