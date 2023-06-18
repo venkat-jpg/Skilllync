@@ -7,7 +7,6 @@
 <div align="center">
  
 </div>
----
 <p align="center"> Welcome to my portfolio website! This platform showcases my skills, projects, and experience in the field of [Full Stack Wed Developer]. Through a visually appealing and user-friendly interface, I aim to present my professional journey, highlight my achievements, and provide insights into my work.
     <br> 
 </p>
